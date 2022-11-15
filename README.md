@@ -1,5 +1,11 @@
 # SmartContract
 
+#Developed BY: 
+#Khushil Kataria - 2020A7PS2086H
+#Rahil Sanghavi - 2020A7PS2052H
+#Pulkit Agrawal - 2020A7PS2072H
+#Dhairya Agrawal - 2020A7PS0130H
+
 This project is a smart contract that sends the amount to xyz.com only when the item has been delivered to the user, and off-loading of the item starts only when the user has paid the amount of the item to the smart contract which is deployed on the blockchain.
 
 
